@@ -6,9 +6,9 @@ const Princing = () => {
     prices: [100, 150, 200],
     position: ['Balcony', 'Medium', 'Star'],
     desc: [
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uts',
-      'Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea',
-      'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.',
+      'The view from this seat are awesome, but may need a bit of personal touch',
+      'Grab this seat if you want to dance all night long',
+      'Best seat in town, enough said !!! Grab it quick and get a chance to get real close to your tay tay.',
     ],
     linkto: ['http://sales.b', 'http://sales/m', 'http://sales.s'],
     delay: [500, 0, 500],

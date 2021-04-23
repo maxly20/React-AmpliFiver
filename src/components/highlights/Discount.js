@@ -40,10 +40,8 @@ const Discount = () => {
           <div className='discount_description'>
             <h3>Purchase ticket before 20th June</h3>
             <p>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo inventore veritatis et quasi architecto beatae vitae
-              dicta sunt explicabo.
+              Get your tickets fast before we are sold out. Don't wait till last
+              minute. Let's rock!
             </p>
 
             <MyButton
