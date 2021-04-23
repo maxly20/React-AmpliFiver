@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# The Oasis - Musical Event
+
+A musical event website built with React, Sass and Material UI.
+
+Deployed Live at : https://maxly-oasis.netlify.app
+
+![](SitePreview.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
