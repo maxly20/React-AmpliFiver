@@ -13,9 +13,9 @@
   left: 50%;
   width: 400px;
   height: 160px;
-  -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   border: 2px solid white;
+  padding-top: 10px;
 }
 
 .artist_name .wrapper {
