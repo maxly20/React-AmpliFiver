@@ -12,7 +12,7 @@ const Carrousel = () => {
     dots: false,
     infinite: true,
     autoplay: true,
-    speed: 300,
+    speed: 400,
   };
 
   return (
