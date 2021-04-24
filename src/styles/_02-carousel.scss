@@ -16,15 +16,15 @@
   transform: translate(-50%, -50%);
   border: 2px solid white;
   padding-top: 10px;
+  .wrapper {
+    border: 2px solid white;
+    height: 121px;
+    margin: 6px;
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    padding: 21px 70px 0px 70px;
+    text-transform: uppercase;
+  }
 }
 
-.artist_name .wrapper {
-  border: 2px solid white;
-  height: 121px;
-  margin: 6px;
-  text-align: center;
-  color: #fff;
-  font-size: 40px;
-  padding: 21px 70px 0px 70px;
-  text-transform: uppercase;
-}
